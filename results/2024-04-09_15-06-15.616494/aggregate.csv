@@ -1,0 +1,4 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+ws-outlet-page,1,1374,1374,1374,1374,1374,1374,1374,0.000%,.72780,1119.38,0.00
+ws-outlet-product-page,74,891,299,4259,4472,4850,205,11562,0.000%,.08445,23.57,0.00
+TOTAL,75,898,301,1374,4472,4850,205,11562,0.000%,.08445,24.98,0.00

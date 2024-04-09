@@ -1,0 +1,50 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 75,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 898.0799999999998,
+    "medianResTime" : 301.0,
+    "minResTime" : 205.0,
+    "maxResTime" : 11562.0,
+    "pct1ResTime" : 4271.8,
+    "pct2ResTime" : 4557.6,
+    "pct3ResTime" : 11562.0,
+    "throughput" : 0.0844485229953328,
+    "receivedKBytesPerSec" : 24.983809634731987,
+    "sentKBytesPerSec" : 0.0
+  },
+  "ws-outlet-product-page" : {
+    "transaction" : "ws-outlet-product-page",
+    "sampleCount" : 74,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 891.6486486486488,
+    "medianResTime" : 300.0,
+    "minResTime" : 205.0,
+    "maxResTime" : 11562.0,
+    "pct1ResTime" : 4275.0,
+    "pct2ResTime" : 4569.5,
+    "pct3ResTime" : 11562.0,
+    "throughput" : 0.08445145924132917,
+    "receivedKBytesPerSec" : 23.567060369883123,
+    "sentKBytesPerSec" : 0.0
+  },
+  "ws-outlet-page" : {
+    "transaction" : "ws-outlet-page",
+    "sampleCount" : 1,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 1374.0,
+    "medianResTime" : 1374.0,
+    "minResTime" : 1374.0,
+    "maxResTime" : 1374.0,
+    "pct1ResTime" : 1374.0,
+    "pct2ResTime" : 1374.0,
+    "pct3ResTime" : 1374.0,
+    "throughput" : 0.727802037845706,
+    "receivedKBytesPerSec" : 1119.3773028111352,
+    "sentKBytesPerSec" : 0.0
+  }
+}
